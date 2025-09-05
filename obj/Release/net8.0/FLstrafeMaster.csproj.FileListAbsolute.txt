@@ -1,0 +1,12 @@
+C:\Users\jumpe\Downloads\FLstrafeMaster\bin\Release\net8.0\FLstrafeMaster.deps.json
+C:\Users\jumpe\Downloads\FLstrafeMaster\bin\Release\net8.0\FLstrafeMaster.dll
+C:\Users\jumpe\Downloads\FLstrafeMaster\bin\Release\net8.0\FLstrafeMaster.pdb
+C:\Users\jumpe\Downloads\FLstrafeMaster\obj\Release\net8.0\FLstrafeMaster.csproj.AssemblyReference.cache
+C:\Users\jumpe\Downloads\FLstrafeMaster\obj\Release\net8.0\FLstrafeMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jumpe\Downloads\FLstrafeMaster\obj\Release\net8.0\FLstrafeMaster.AssemblyInfoInputs.cache
+C:\Users\jumpe\Downloads\FLstrafeMaster\obj\Release\net8.0\FLstrafeMaster.AssemblyInfo.cs
+C:\Users\jumpe\Downloads\FLstrafeMaster\obj\Release\net8.0\FLstrafeMaster.csproj.CoreCompileInputs.cache
+C:\Users\jumpe\Downloads\FLstrafeMaster\obj\Release\net8.0\FLstrafeMaster.dll
+C:\Users\jumpe\Downloads\FLstrafeMaster\obj\Release\net8.0\refint\FLstrafeMaster.dll
+C:\Users\jumpe\Downloads\FLstrafeMaster\obj\Release\net8.0\FLstrafeMaster.pdb
+C:\Users\jumpe\Downloads\FLstrafeMaster\obj\Release\net8.0\ref\FLstrafeMaster.dll
